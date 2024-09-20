@@ -1,1 +1,20 @@
 /* Start coding here */
+.box-main{
+    display: flex;
+    background-color: lightgrey;
+    padding: 50px;
+    height: 100vh;
+    flex-direction: column;
+}
+.Box-1{
+    background-color: orange;
+    height: 25%;
+}
+.Box-2{
+    background-color: khaki;
+    height: 25%;
+}
+.Box-3{
+    background-color: cornflowerblue;
+    height: 50%;
+}
